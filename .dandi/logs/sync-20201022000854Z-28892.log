@@ -1,0 +1,9 @@
+2020-10-21T20:08:55-0400 [INFO    ] dandi Traversing remote dandisets (000025) recursively
+2020-10-21T20:08:55-0400 [INFO    ] backups2datalad.py Updating metadata file
+2020-10-21T20:08:55-0400 [INFO    ] backups2datalad.py Syncing asset /001_140709EXP_A1_ndx_v3.nwb
+2020-10-21T20:08:55-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T20:08:56-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T20:08:56-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/fa/16/fa165d25d7ff42fea1ded40a82be008a -> /mnt/backup/dandi/dandisets/000025/001_140709EXP_A1_ndx_v3.nwb
+2020-10-21T20:08:56-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T20:08:58-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/fa/16/fa165d25d7ff42fea1ded40a82be008a?versionId=.bG49lVXBdNOxEuJ1Csrqs6rinq.c_oD to asset
+2020-10-21T20:08:58-0400 [INFO    ] backups2datalad.py Commiting changes
