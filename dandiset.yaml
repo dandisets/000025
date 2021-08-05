@@ -15,7 +15,8 @@ description: This is a single session showing example intracellular electrophysi
   for organizing sweeps of a complex experimental protocol.
 id: DANDI:000025/draft
 identifier: DANDI:000025
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000025/versions/draft/assets/
 name: Example intracellular ephys data from BBP
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
