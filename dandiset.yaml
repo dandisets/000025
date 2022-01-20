@@ -9,7 +9,7 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Example intracellular ephys data from BBP (2021). (Version draft) [Data
+citation: Example intracellular ephys data from BBP (2022). (Version draft) [Data
   set]. DANDI archive. https://dandiarchive.org/dandiset/000025/draft
 dateCreated: '2020-06-18T13:11:33.895000+00:00'
 description: This is a single session showing example intracellular electrophysiology
