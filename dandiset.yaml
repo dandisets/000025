@@ -6,9 +6,31 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach:
+  - name: electrophysiological approach
+    schemaKey: ApproachType
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique:
+  - name: current clamp technique
+    schemaKey: MeasurementTechniqueType
+  - name: voltage clamp technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 13664814
+  numberOfFiles: 1
+  numberOfSubjects: 1
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
+    name: Rattus norvegicus - Norway rat
+    schemaKey: SpeciesType
+  variableMeasured:
+  - VoltageClampSeries
+  - CurrentClampStimulusSeries
+  - VoltageClampStimulusSeries
+  - CurrentClampSeries
 citation: Example intracellular ephys data from BBP (2022). (Version draft) [Data
   set]. DANDI archive. https://dandiarchive.org/dandiset/000025/draft
 dateCreated: '2020-06-18T13:11:33.895000+00:00'
